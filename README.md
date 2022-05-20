@@ -22,12 +22,16 @@
 <!-- languages:start -->
 <!-- prettier-ignore-start -->
 <!-- markdownlint-disable -->
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" alt="javascript" /></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/typescript/typescript.png" alt="typescript" /></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png" alt="nodejs" /></code>
-<code><img height="20" src="https://www.freelogovectors.net/wp-content/uploads/2021/08/vuejs-logo-freelogovectors.net_.png" /></code>
+<code><img height="20" src="https://github.com/g0ngjie/2016/wiki/images/javascript.png" alt="javascript" /></code>
+<code><img height="20" src="https://github.com/g0ngjie/2016/wiki/images/typescript.png" alt="typescript" /></code>
+<code><img height="20" src="https://github.com/g0ngjie/2016/wiki/images/nodejs.png" alt="nodejs" /></code>
+<code><img height="20" src="https://github.com/g0ngjie/2016/wiki/images/vuejs.png" 
+alt="vuejs"/></code>
+<code><img height="20" src="https://github.com/g0ngjie/2016/wiki/images/java.png" 
+alt="java"/></code>
+<code><img height="20" src="https://github.com/g0ngjie/2016/wiki/images/golang.png" 
+alt="golang"/></code>
 <!-- markdownlint-restore -->
 <!-- prettier-ignore-end -->
+
 <!-- languages:end -->
-
-
