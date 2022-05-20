@@ -22,15 +22,15 @@
 <!-- languages:start -->
 <!-- prettier-ignore-start -->
 <!-- markdownlint-disable -->
-<code><img height="20" src="https://github.com/g0ngjie/2016/wiki/images/javascript.png" alt="javascript" /></code>
-<code><img height="20" src="https://github.com/g0ngjie/2016/wiki/images/typescript.png" alt="typescript" /></code>
-<code><img height="20" src="https://github.com/g0ngjie/2016/wiki/images/nodejs.png" alt="nodejs" /></code>
-<code><img height="20" src="https://github.com/g0ngjie/2016/wiki/images/vuejs.png" 
-alt="vuejs"/></code>
-<code><img height="20" src="https://github.com/g0ngjie/2016/wiki/images/java.png" 
-alt="java"/></code>
-<code><img height="20" src="https://github.com/g0ngjie/2016/wiki/images/golang.png" 
-alt="golang"/></code>
+<img height="20" src="https://github.com/g0ngjie/2016/wiki/images/javascript.png" alt="javascript" />
+<img height="20" src="https://github.com/g0ngjie/2016/wiki/images/typescript.png" alt="typescript" />
+<img height="20" src="https://github.com/g0ngjie/2016/wiki/images/nodejs.png" alt="nodejs" />
+<img height="20" src="https://github.com/g0ngjie/2016/wiki/images/vuejs.png" 
+alt="vuejs"/>
+<img height="20" src="https://github.com/g0ngjie/2016/wiki/images/java.png" 
+alt="java"/>
+<img height="20" src="https://github.com/g0ngjie/2016/wiki/images/golang.png" 
+alt="golang"/>
 <!-- markdownlint-restore -->
 <!-- prettier-ignore-end -->
 
