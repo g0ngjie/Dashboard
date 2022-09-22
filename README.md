@@ -2,6 +2,8 @@
 [![](https://github-readme-stats.vercel.app/api/top-langs/?username=g0ngjie&layout=compact&theme=cobalt)](https://github.com/g0ngjie) -->
 
 <!-- <div align="center"> -->
+![GitHub Snake Light](https://raw.githubusercontent.com/g0ngjie/g0ngjie/output/github-snake-dark.svg#gh-dark-mode-only)![GitHub Snake dark](https://raw.githubusercontent.com/g0ngjie/g0ngjie/output/github-snake.svg#gh-light-mode-only)
+
 <div>
   <p>
     <img
