@@ -18,8 +18,6 @@
   </p>
 </div>
 
-#### Gitee: <a href="https://gitee.com/g0ngjie" target="_blank">https://gitee.com/g0ngjie</a>
-
 #### Languages
 
 <!-- languages:start -->
