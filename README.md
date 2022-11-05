@@ -3,7 +3,8 @@
 
 <!-- <div align="center"> -->
 
-![GitHub Snake Light](https://raw.githubusercontent.com/g0ngjie/g0ngjie/output/github-snake-dark.svg#gh-dark-mode-only)![GitHub Snake dark](https://raw.githubusercontent.com/g0ngjie/g0ngjie/output/github-snake.svg#gh-light-mode-only)
+<!-- ![GitHub Snake Light](https://raw.githubusercontent.com/g0ngjie/g0ngjie/output/github-snake-dark.svg#gh-dark-mode-only)![GitHub Snake dark](https://raw.githubusercontent.com/g0ngjie/g0ngjie/output/github-snake.svg#gh-light-mode-only)
+-->
 
 <div>
   <p>
