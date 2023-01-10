@@ -19,6 +19,8 @@
   </p>
 </div>
 
+![](https://profile-counter.glitch.me/g0ngjie/count.svg)
+
 #### Languages
 
 <!-- languages:start -->
@@ -34,3 +36,4 @@
 <!-- prettier-ignore-end -->
 
 <!-- languages:end -->
+
