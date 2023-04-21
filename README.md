@@ -19,7 +19,7 @@
   </p>
 </div>
 
-![](https://profile-counter.glitch.me/g0ngjie/count.svg)
+<!-- ![](https://profile-counter.glitch.me/g0ngjie/count.svg) -->
 
 #### Languages
 
